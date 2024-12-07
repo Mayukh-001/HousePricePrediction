@@ -1,2 +1,2 @@
-# HousePricePrediction
-AI to get house price.
+# Salary Prediction and Upgradation
+AI to get salary updatation.
